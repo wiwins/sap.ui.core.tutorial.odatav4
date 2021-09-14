@@ -1,8 +1,4 @@
-specVersion: '2.3'
+specVersion: '2.5'
 metadata:
-  name: "sap.ui.core.tutorial.odatav4.01"
+  name: sap.ui.core.tutorial.odatav4
 type: application
-resources:
-  configuration:
-    paths:
-      webapp: .
